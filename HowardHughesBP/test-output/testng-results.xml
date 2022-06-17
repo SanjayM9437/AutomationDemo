@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Cancel Sale Process is Successfull]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-15T11:52:31 IST" name="Functional testcase " finished-at="2022-06-15T11:53:34 IST" duration-ms="63568">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T11:52:31 IST" name="HowardHughesBP Automation Script" finished-at="2022-06-15T11:53:34 IST" duration-ms="63568">
+      <class name="com.HowardHughesBP.testCases.HillwoodBP">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.HowardHughesBP.testCases.HillwoodBP@4d465b11]" started-at="2022-06-15T11:52:31 IST" name="setup" finished-at="2022-06-15T11:52:36 IST" duration-ms="4930" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cancelSaleTest()[pri:3, instance:com.HowardHughesBP.testCases.HillwoodBP@4d465b11]" started-at="2022-06-15T11:52:36 IST" name="cancelSaleTest" finished-at="2022-06-15T11:53:34 IST" duration-ms="58394" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cancel Sale Process is Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cancelSaleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.HowardHughesBP.testCases.HillwoodBP@4d465b11]" started-at="2022-06-15T11:53:34 IST" name="tearDown" finished-at="2022-06-15T11:53:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HowardHughesBP.testCases.HillwoodBP -->
+    </test> <!-- HowardHughesBP Automation Script -->
+  </suite> <!-- Functional testcase  -->
+</testng-results>
